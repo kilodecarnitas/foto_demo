@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892967996385",
+    "project_id": "fotodemoapp",
+    "storage_bucket": "fotodemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892967996385:android:73ca0ed6f96046e21520a0",
+        "android_client_info": {
+          "package_name": "com.example.fotodemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892967996385-1b8tq97l3u35pquksk9ohcj1874e2v7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxo_4EhoslfNZljQy5UwOTfNelMpG8sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892967996385-1b8tq97l3u35pquksk9ohcj1874e2v7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
